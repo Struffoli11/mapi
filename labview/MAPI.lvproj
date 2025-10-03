@@ -32,6 +32,7 @@
 			<Item Name="inout.vi" Type="VI" URL="../inout.vi"/>
 			<Item Name="load_calib_file.vi" Type="VI" URL="../load_calib_file.vi"/>
 			<Item Name="append to file.vi" Type="VI" URL="../append to file.vi"/>
+			<Item Name="scan_equation.vi" Type="VI" URL="../scan_equation.vi"/>
 		</Item>
 		<Item Name="CALIBRATION.lvlib" Type="Library" URL="../CALIBRATION.lvlib"/>
 		<Item Name="GPIB_UART.lvlib" Type="Library" URL="../GPIB_UART.lvlib"/>
