@@ -40,7 +40,6 @@
 		<Item Name="statistics.lvlib" Type="Library" URL="../statistics.lvlib"/>
 		<Item Name="Certification.lvlib" Type="Library" URL="../Certification.lvlib"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="percentage_input.vi" Type="VI" URL="../percentage_input.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>

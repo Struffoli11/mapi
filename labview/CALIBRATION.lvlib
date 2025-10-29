@@ -6,11 +6,12 @@
 	<Item Name="dataset_info.vi" Type="VI" URL="../dataset_info.vi"/>
 	<Item Name="extended_uncertainty.vi" Type="VI" URL="../extended_uncertainty.vi"/>
 	<Item Name="histogram.vi" Type="VI" URL="../histogram.vi"/>
-	<Item Name="Hysteresis_Math.vi" Type="VI" URL="../Hysteresis_Math.vi"/>
 	<Item Name="inout_map.vi" Type="VI" URL="../inout_map.vi"/>
 	<Item Name="mead_and_deviation.vi" Type="VI" URL="../mead_and_deviation.vi"/>
 	<Item Name="my_std_dev.vi" Type="VI" URL="../my_std_dev.vi"/>
 	<Item Name="pbp_uncertainty.vi" Type="VI" URL="../pbp_uncertainty.vi"/>
+	<Item Name="percentage_input.vi" Type="VI" URL="../percentage_input.vi"/>
 	<Item Name="resolution.vi" Type="VI" URL="../resolution.vi"/>
 	<Item Name="rss.vi" Type="VI" URL="../rss.vi"/>
+	<Item Name="uncertainty_datasets.vi" Type="VI" URL="../uncertainty_datasets.vi"/>
 </Library>
